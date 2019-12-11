@@ -1,0 +1,2 @@
+history
+history -w test.txt
